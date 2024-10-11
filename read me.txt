@@ -1,0 +1,2 @@
+MongooseDB connection
+mongodb+srv://Boopathy:BoopathyLOVE@cluster0.wmnmii2.mongodb.net/E-Commerce
